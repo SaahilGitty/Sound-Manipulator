@@ -1,0 +1,30 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Josefin+Sans&display=swap');
+
+html, body {
+  margin: 0;
+  padding: 0;
+  font-family: 'Josefin Sans', Helvetica, Arial, sans-serif;
+}
+
+body {
+  background-image:url('https://th.bing.com/th/id/R.3771b1856f6e8553d4f71f7b4d10a82a?rik=co1B3T2L6Lv%2ftA&pid=ImgRaw&r=0');
+  padding: auto;
+}
+canvas {
+  display: block;
+  margin-top: 180px;
+}
+
+.header-box {
+  padding: 25px;
+  background-color: blue;
+  text-align: center;
+  
+  color: white;
+}
+
+.margin-auto {
+  margin-left:auto;
+  margin-right:auto;
+}
